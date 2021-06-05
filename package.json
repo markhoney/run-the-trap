@@ -1,0 +1,19 @@
+{
+  "name": "run-the-trap",
+  "version": "1.0.0",
+  "description": "A test of accessing trap.nz data via their API (and possibly scraping)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/markhoney/run-the-trap.git"
+  },
+  "author": "Mark Honeychurch",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/markhoney/run-the-trap/issues"
+  },
+  "homepage": "https://github.com/markhoney/run-the-trap#readme"
+}
